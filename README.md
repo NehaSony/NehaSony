@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NehaSony
 - 👀 I’m interested in Java Applications and Micro Services
 - 🌱 I’m currently learning to design and build scalable applications.
-- 💞️ I’m always looking to solve complex problems. 
+- 🤍 I’m always looking to solve complex problems. 
 - 📫 Here is great!
 
 <!---
